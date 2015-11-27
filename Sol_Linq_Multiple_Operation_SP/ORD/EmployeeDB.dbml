@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Test" Class="EmployeeDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=SHREE\SHREE;Initial Catalog=Test;Integrated Security=True" SettingsObjectName="Sol_Linq_Multiple_Operation_SP.Properties.Settings" SettingsPropertyName="TestConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.SpEmployee" Method="SpEmployee">
+    <Parameter Name="FirstName" Parameter="firstName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="LastName" Parameter="lastName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="DOB" Parameter="dOB" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="Status" Parameter="status" Type="System.String" DbType="NVarChar(10)" />
+    <ElementType Name="SpEmployeeResult">
+      <Column Name="FirstName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DOB" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

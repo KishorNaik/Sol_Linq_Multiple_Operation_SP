@@ -1,0 +1,9 @@
+C:\Users\KISHOR\Desktop\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\bin\Debug\Sol_Linq_Multiple_Operation_SP.exe.config
+C:\Users\KISHOR\Desktop\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\bin\Debug\Sol_Linq_Multiple_Operation_SP.exe
+C:\Users\KISHOR\Desktop\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\bin\Debug\Sol_Linq_Multiple_Operation_SP.pdb
+C:\Users\KISHOR\Desktop\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\obj\Debug\Sol_Linq_Multiple_Operation_SP.csprojResolveAssemblyReference.cache
+C:\Users\KISHOR\Desktop\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\obj\Debug\Sol_Linq_Multiple_Operation_SP.exe
+C:\Users\KISHOR\Desktop\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\obj\Debug\Sol_Linq_Multiple_Operation_SP.pdb
+E:\Program\# Crash\C#\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\bin\Debug\Sol_Linq_Multiple_Operation_SP.exe.config
+E:\Program\# Crash\C#\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\obj\Debug\Sol_Linq_Multiple_Operation_SP.exe
+E:\Program\# Crash\C#\Sol_Linq_Multiple_Operation_SP\Sol_Linq_Multiple_Operation_SP\obj\Debug\Sol_Linq_Multiple_Operation_SP.pdb
